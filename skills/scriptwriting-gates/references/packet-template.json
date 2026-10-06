@@ -1,0 +1,640 @@
+{
+  "version": "v1",
+  "spoken_script": "",
+  "mode": "draft",
+  "profile": {
+    "hook_max_words": 18,
+    "first_person_allowed": false,
+    "jargon_terms": [],
+    "allow_dash_style": false,
+    "specialist_audience": false
+  },
+  "gates": [
+    {
+      "id": "G1",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G2",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G3",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G4",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G5",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G6",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G7",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G8",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G9",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G10",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G11",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G12",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G13",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G14",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G15",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G16",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G17",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G18",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G19",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G20",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G21",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G22",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G23",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G24",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G25",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G26",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G27",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G28",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G29",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "G30",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    }
+  ],
+  "hook_checks": [
+    {
+      "id": "H1",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "H2",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "H3",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "H4",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    }
+  ],
+  "desire_checks": [
+    {
+      "id": "D1",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "D2",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "D3",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "D4",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "D5",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "D6",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    },
+    {
+      "id": "D7",
+      "status": "BLOCKED",
+      "reason": "Not yet assessed against the current script and actual evidence.",
+      "quotes": [],
+      "artifacts": [],
+      "sources": [],
+      "parent_ids": []
+    }
+  ],
+  "humanizer": [
+    {
+      "id": 1,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 2,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 3,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 4,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 5,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 6,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 7,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 8,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 9,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 10,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 11,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 12,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 13,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 14,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 15,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 16,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 17,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 18,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 19,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 20,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 21,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 22,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 23,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 24,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 25,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 26,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 27,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 28,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 29,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 30,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 31,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 32,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    },
+    {
+      "id": 33,
+      "status": "BLOCKED",
+      "reason": "Not yet audited.",
+      "quotes": []
+    }
+  ],
+  "ladder": [],
+  "audience_states": [
+    {
+      "state": "never_done",
+      "hook": "N/A",
+      "reason": "Audience and script have not yet been assessed.",
+      "quotes": []
+    },
+    {
+      "state": "just_started",
+      "hook": "N/A",
+      "reason": "Audience and script have not yet been assessed.",
+      "quotes": []
+    },
+    {
+      "state": "outsourced",
+      "hook": "N/A",
+      "reason": "Audience and script have not yet been assessed.",
+      "quotes": []
+    },
+    {
+      "state": "struggling",
+      "hook": "N/A",
+      "reason": "Audience and script have not yet been assessed.",
+      "quotes": []
+    },
+    {
+      "state": "competent",
+      "hook": "N/A",
+      "reason": "Audience and script have not yet been assessed.",
+      "quotes": []
+    }
+  ],
+  "claims": [],
+  "history": {
+    "mode": "cold_start",
+    "search_scope": "No historical evidence has yet been supplied or searched.",
+    "parents": [],
+    "control_notes": "No measured control evidence supplied.",
+    "recent_coverage": "No current published or unpublished coverage supplied."
+  },
+  "parity": {
+    "status": "BLOCKED",
+    "reason": "No current narration or truth sheet to compare."
+  },
+  "rehearsal": {
+    "method": "not_run",
+    "seconds": null,
+    "evidence": "No rehearsal performed."
+  },
+  "production": {
+    "status": "PENDING"
+  }
+}

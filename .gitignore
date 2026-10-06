@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.sqlite
+*.sqlite3
+review.json
+Script.md
+private/
+outputs/

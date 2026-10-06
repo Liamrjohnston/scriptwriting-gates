@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scriptwriting Gates"
+  short_description: "Evidence-led video scripts with the complete gate review"
+  default_prompt: "Use $scriptwriting-gates to write or audit my video script with the complete evidence-backed review."
